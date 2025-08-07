@@ -1,6 +1,6 @@
 ![Andhika Septiansyah](img/github-header-banner.png)
 
-### Hi, I'm Andhika Septiansyah! 👋
+#### Hi, I'm Andhika Septiansyah! 👋
 
 A passionate **Web Developer** 💻 with experience building functional and intuitive web solutions. I have expertise in **HTML**, **CSS**, **JavaScript**, **PHP**, and **MySQL**, which I have applied to two main projects:
 
