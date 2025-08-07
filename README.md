@@ -11,6 +11,8 @@ With a strong background in **graphic design** using **Photoshop** for two years
 
 I'm always looking for opportunities to learn and collaborate on interesting projects. ✨ Let's build something great together!
 
+<img src="https://raw.githubusercontent.com/andhikaseptiansyah/andhikaseptiansyah/output/snake.svg" alt="Snake animation" />
+
 ##### Skill
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
@@ -34,3 +36,8 @@ I'm always looking for opportunities to learn and collaborate on interesting pro
 ##### Connect With Me
 ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andhikaseptiansyah/andhikaseptiansyah/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andhikaseptiansyah/andhikaseptiansyah/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/andhikaseptiansyah/andhikaseptiansyah/output/pacman-contribution-graph.svg">
+</picture>
